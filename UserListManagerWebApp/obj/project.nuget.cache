@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bdy/oPnw7EDgBDvxZeYwj+Re8HSRSJusAkKWw1shumcUJWPwgBS7+qA/XF2a5KvD9X8U1tjLncQG80YX/oNi2Q==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\UserListManager\\UserListManagerWebApp\\UserListManagerWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\perma\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

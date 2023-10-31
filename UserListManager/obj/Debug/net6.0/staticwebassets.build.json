@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Csqm7PB9cGtbF15QC6gNOceaUprAGWSESvW7zYpFFIA=",
+  "Source": "UserListManagerApi",
+  "BasePath": "_content/UserListManagerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UserListManagerApi\\wwwroot",
+      "Source": "UserListManagerApi",
+      "ContentRoot": "D:\\GitHub\\UserListManager\\UserListManager\\wwwroot\\",
+      "BasePath": "_content/UserListManagerApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

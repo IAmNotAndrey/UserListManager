@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "WK5ZBUwskWZH1dvD8P2zDj+oCawBypBQEbEZfwqu4aE=",
+  "Source": "UserListManagerApi",
+  "BasePath": "_content/UserListManagerApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UserListManagerApi\\wwwroot",
+      "Source": "UserListManagerApi",
+      "ContentRoot": "D:\\Program Files\\personal_programmes\\UserListManager\\UserListManager\\wwwroot\\",
+      "BasePath": "_content/UserListManagerApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

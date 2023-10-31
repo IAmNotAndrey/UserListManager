@@ -1,0 +1,53 @@
+﻿@model IEnumerable<User>
+
+<p>
+	<a asp-action="AddUser">Add User</a>
+</p>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Id)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.FirstName)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.LastName)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Age)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Email)
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var user in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => user.Id)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => user.FirstName)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => user.LastName)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => user.Age)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => user.Email)
+				</td>
+				<td>
+					<a class="btn btn-primary" asp-action="UpdateUser" asp-route-id="@user.Id">Edit</a>
+					<a class="btn btn-danger" asp-action="DeleteUser" asp-route-id="@user.Id">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

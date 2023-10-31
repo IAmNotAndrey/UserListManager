@@ -1,0 +1,62 @@
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\appsettings.json
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.staticwebassets.runtime.json
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.exe
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.deps.json
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.runtimeconfig.json
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.dll
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.pdb
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.csproj.AssemblyReference.cache
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.AssemblyInfoInputs.cache
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.AssemblyInfo.cs
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.csproj.CoreCompileInputs.cache
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.RazorAssemblyInfo.cache
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.RazorAssemblyInfo.cs
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.UserListManagerWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.UserListManagerWebApp.props
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserListManagerWebApp.props
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserListManagerWebApp.props
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\scopedcss\bundle\UserListManagerWebApp.styles.css
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.csproj.CopyComplete
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.dll
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\refint\UserListManagerWebApp.dll
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.pdb
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.genruntimeconfig.cache
+D:\Program Files\personal_programmes\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\ref\UserListManagerWebApp.dll
+D:\GitHub\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\GitHub\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\appsettings.json
+D:\GitHub\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.staticwebassets.runtime.json
+D:\GitHub\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.exe
+D:\GitHub\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.deps.json
+D:\GitHub\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.runtimeconfig.json
+D:\GitHub\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.dll
+D:\GitHub\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\UserListManagerWebApp.pdb
+D:\GitHub\UserListManager\UserListManagerWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.csproj.AssemblyReference.cache
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.AssemblyInfoInputs.cache
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.AssemblyInfo.cs
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.csproj.CoreCompileInputs.cache
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.RazorAssemblyInfo.cache
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.RazorAssemblyInfo.cs
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.UserListManagerWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.UserListManagerWebApp.props
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserListManagerWebApp.props
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserListManagerWebApp.props
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\scopedcss\bundle\UserListManagerWebApp.styles.css
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.csproj.CopyComplete
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.dll
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\refint\UserListManagerWebApp.dll
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.pdb
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\UserListManagerWebApp.genruntimeconfig.cache
+D:\GitHub\UserListManager\UserListManagerWebApp\obj\Debug\net6.0\ref\UserListManagerWebApp.dll

@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+	<!-- Ссылка на библиотеку иконок (Font Awesome) -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
+	<!-- Кастомные стили -->
+
+	<script src="~/lib/jquery/dist/jquery.min.js"></script> <!-- jQuery -->
+
+	<title>@ViewData["Title"]</title>
+</head>
+<body>
+	<header>
+		<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 navbar-collapse collapse d-sm-inline-flex justify-content-between">
+			<ul class="navbar-nav flex-grow-1">
+				<li class="nav-item">
+					<a class="nav-link text-dark" href="@Url.Action("GetUsers", "Users")">
+						To User List
+					</a>
+				</li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		@if (TempData.ContainsKey("ErrorMessage"))
+		{
+			<div class="alert alert-danger">
+				@TempData["ErrorMessage"]
+			</div>
+		}
+
+		@RenderBody()
+	</main>
+</body>
+</html>
